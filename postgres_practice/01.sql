@@ -1,3 +1,21 @@
+-- ==========================================
+-- INDEX
+-- ==========================================
+-- 1. Drop Tables
+-- 2. Create Tables
+-- 3. Insert Data
+-- 4. Select & Filter
+-- 5. Update
+-- 6. Delete
+-- 7. Aggregation & Group By
+-- 8. Set Operations
+--    8.1 UNION
+--    8.2 UNION ALL
+--    8.3 INTERSECT
+--    8.4 EXCEPT
+-- ==========================================
+
+
 -- =========================
 -- DROP TABLES IF THEY EXIST
 -- =========================

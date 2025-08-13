@@ -1,3 +1,12 @@
+-- ==========================================
+-- INDEX
+-- ==========================================
+-- 1. INNER JOIN
+-- 2. LEFT JOIN
+-- 3. SELF JOIN
+-- 4. FULL OUTER JOIN
+-- ==========================================
+
 /*===============================================================
   1️⃣ Patients & Appointments Example
   Demonstrating INNER JOIN using both explicit JOIN syntax 
