@@ -25,7 +25,7 @@ You can directly upload the CSV files to **Snowflake** (or any cloud database) a
 ### Option 2 — Snowflake (Cloud, No Installation Required)
 1. Sign up for a free Snowflake trial.
 2. Create a database and schema.
-3. Upload CSV files using the `create_table.sql` schema.
+3. Upload CSV files to create tables.
 4. Run the SQL queries in Snowflake.
 
 ---
